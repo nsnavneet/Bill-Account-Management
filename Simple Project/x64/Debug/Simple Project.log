@@ -1,0 +1,3 @@
+﻿  Simple Project.cpp
+D:\data structures\Simple Project\Simple Project\Simple Project.cpp(204,1): warning C4267: 'return': conversion from 'size_t' to 'long', possible loss of data
+  Simple Project.vcxproj -> D:\data structures\Simple Project\x64\Debug\Simple Project.exe
